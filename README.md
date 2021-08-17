@@ -13,3 +13,15 @@ Congrats now you can control your TTGO with SMS's.
 # Hardware requirements
 1. Connect the USB port of your computer to the TTGO T-Call board
 2. Place a Sim card in the ttgo device.
+
+# Hardware Setup:
+If you have TTGO T-Call the following instructions are not required:
+1. Connect the SIM800L_RX to Pin 27 of the ESP32.
+2. Connect the SIM800L_TX to Pin 26 of the ESP32.
+3. Of case we need ground to ground.
+
+# Connections schema
+
+
+# Preview:
+
