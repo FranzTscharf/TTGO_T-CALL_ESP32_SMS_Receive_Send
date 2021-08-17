@@ -6,8 +6,8 @@
 
 // ESP32 + GSM MODULE
 #include "Adafruit_FONA.h"
-#define SIM800L_RX     27
-#define SIM800L_TX     26
+#define SIM800L_RX     16 //GPIO 16
+#define SIM800L_TX     17 //GPIO 17
 #define SIM800L_PWRKEY 4
 #define SIM800L_RST    5
 #define SIM800L_POWER  23
