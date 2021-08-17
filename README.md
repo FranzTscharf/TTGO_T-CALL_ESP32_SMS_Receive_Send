@@ -16,12 +16,12 @@ Congrats now you can control your TTGO with SMS's.
 
 # Hardware Setup:
 If you have TTGO T-Call the following instructions are not required:
-1. Connect the SIM800L_RX to Pin 27 of the ESP32.
-2. Connect the SIM800L_TX to Pin 26 of the ESP32.
+1. Connect the SIM800L RX to Pin 17(TX) of the ESP32.
+2. Connect the SIM800L TX to Pin 16(RX) of the ESP32.
 3. Of case we need ground to ground.
 
 # Connections schema
-
+![Wiring schema of ESP32 and SIM800L](./wiring_schema.png)
 
 # Preview:
-
+![Screenshot of the phone sms communication ESP32 and SIM800L](./IMG_5500.PNG)
