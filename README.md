@@ -2,7 +2,7 @@
 This repository contains code to receive and send sms with the TTGO T-Call development board (ESP32 + SIM800L)
 # Getting Started
 1. Download repository
-2. Open ino file with the Arduino IDE.
+2. Open "ttgo_sms_receive_send.ino" file with the Arduino IDE.
 3. Choose the development board and compile the program.
 4. Open the Serial monitor at 115200 rate.
 5. Send a SMS with any Text to your SIM card number from your own phone.
